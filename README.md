@@ -17,8 +17,7 @@ To get a local copy up and running follow these simple example steps.
 
 ### Prerequisites
 > Internet connection
-> Registered Github Account
-
+> 
 👤 **Author1**
 
 - GitHub: @Hismercy209
