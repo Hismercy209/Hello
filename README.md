@@ -1,58 +1,34 @@
 
 
-# Project Name
-Project_One(Hello)
-
-> Description the project.
-This is a simple Htmlcss project
+# Set up a Hello
 
 ## Built With
 
-- Html 
-- CSS
-- Github
+- HTML And 
+
+## Getting Started
+
+**Open your terminal - Windows: Win + R, then type cmd | Mac: Command + space, then type Terminal
+Navigate to a directory of your choosing using the cd command
+Run this command in your OS terminal: git clone git@github.com:Hismercy209/Hello.git to get a copy of the project.
+Navigate to the project's directory using the cd command.**
 
 To get a local copy up and running follow these simple example steps.
 
 ### Prerequisites
-
-### Setup
-
-### Install
-
-### Usage
-
-### Run tests
-
-### Deployment
-
-
-
-## Authors
+> Internet connection
+> Registered Github Account
 
 👤 **Author1**
 
-- GitHub: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@juliusOguntade1](https://twitter.com/twitterhandle)
-- LinkedIn: [Julius Oguntade](https://linkedin.com/in/linkedinhandle)
+- GitHub: @Hismercy209
+- LinkedIn: @Julius Oguntade 
+
 
 ## 🤝 Contributing
 
 Contributions, issues, and feature requests are welcome!
 
-Feel free to check the [issues page](../../issues/).
-
 ## Show your support
 
 Give a ⭐️ if you like this project!
-
-## Acknowledgments
-
-- Hat tip to anyone whose code was used
-- Inspiration
-- etc
-
-## 📝 License
-
-This project is [MIT](./LICENSE) licensed.
-
