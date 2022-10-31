@@ -1,33 +1,52 @@
+![](https://img.shields.io/badge/Microverse-blueviolet)
 
+# Hello Microverse
 
-# Set up a Hello Microverse Project
+> In this we are learning about github flow ,linters and making hello microverse using html and css.
 
 ## Built With
 
-- HTML And CSS
+- HTML and CSS
+- Linters
+- VS studio code, GitHub.
 
 ## Getting Started
 
-**Open your terminal - Windows: Win + R, then type cmd | Mac: Command + space, then type Terminal
-Navigate to a directory of your choosing using the cd command
-Run this command in your OS terminal: git clone git@github.com:Hismercy209/Hello.git to get a copy of the project.
-Navigate to the project's directory using the cd command.**
+**You can run the application locally by cloning this [repository](https://github.com/Hismercy209/Hello.git)**
 
-To get a local copy up and running follow these simple example steps.
+### Local Setup
 
-### Prerequisites
-> Internet connection
-> 
-👤 **Author1**
+To run this project locally, make sure you have done the following:
 
-- GitHub: @Hismercy209
-- LinkedIn: @Julius Oguntade 
+- Created hint.rc file
+- Created stylelint.rc file
+- Created .gihub/workflows/linters/yml
+- Get a copy of the project by running `https://github.com/Hismercy209/Hello.git`
+- cd into the project
+- Open the project using code editor like vs code or Atom.
+- Open your prefered browser like safari or google chrome.
 
+## Authors
+
+👤 Julius Oguntade 
+
+- GitHub: [@Hismercy209](https://github.com/Hismercy209/Hello)
+- LinkedIn: [@JuliusOguntade](https://www.linkedin.com/in/julius-oguntade-790a59184/)
 
 ## 🤝 Contributing
 
 Contributions, issues, and feature requests are welcome!
 
+Feel free to check the [issues page]() .
+
 ## Show your support
 
 Give a ⭐️ if you like this project!
+
+## Acknowledgments
+
+- www.microverse.com
+
+## 📝 License
+
+This project is [MIT](./LICENSE) licensed.
