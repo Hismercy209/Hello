@@ -4,7 +4,7 @@
 
 ## Built With
 
-- HTML And 
+- HTML And CSS
 
 ## Getting Started
 
